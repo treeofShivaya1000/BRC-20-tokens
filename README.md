@@ -1,0 +1,2 @@
+# BRC-20-tokens
+{   "name": "MOHV",   "symbol": "MOHV",   "description": "MOHV is a BRC-20 token on Bitcoin representing honesty, transparency, and the future of decentralized value.",   "decimals": 18,   "maxSupply": "10000000000",   "mintLimit": "1000000" }
